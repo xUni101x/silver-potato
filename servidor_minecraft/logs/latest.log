@@ -326,3 +326,33 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [16Jul2025 22:50:40.316] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@75eb709c[id=<null>,name=Fresita_decaida,properties={},legacy=false] (/127.177.169.2:39827) lost connection: Timed out
 [16Jul2025 22:51:08.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was slain by Baby Spider
 [16Jul2025 22:51:14.208] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5fcd8981[id=<null>,name=Fresita_decaida,properties={},legacy=false] (/127.177.169.2:50023) lost connection: Disconnected
+[16Jul2025 22:51:46.766] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fresita_decaida[/127.177.169.2:38395] logged in with entity id 5983 at (55.3961574961483, 21.0, 32.70157934682518)
+[16Jul2025 22:51:46.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida joined the game
+[16Jul2025 22:52:16.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida has made the advancement [Acquire Hardware]
+[16Jul2025 22:52:22.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida has made the advancement [Suit Up]
+[16Jul2025 22:53:06.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Knight Quest]
+[16Jul2025 22:53:23.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was slain by Zombie
+[16Jul2025 22:53:56.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Sweet Dreams]
+[16Jul2025 22:54:47.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Knight Quest]
+[16Jul2025 22:54:51.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was slain by Corpse Maggot
+[16Jul2025 22:55:31.413] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 lost connection: Disconnected
+[16Jul2025 22:55:31.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 left the game
+[16Jul2025 22:55:41.656] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fresita_decaida lost connection: Disconnected
+[16Jul2025 22:55:41.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida left the game
+[16Jul2025 22:58:39.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[16Jul2025 22:58:39.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[16Jul2025 22:58:39.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[16Jul2025 22:58:39.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[16Jul2025 22:58:40.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16Jul2025 22:58:41.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/prehistoricfauna:jurassic
+[16Jul2025 22:58:41.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16Jul2025 22:58:41.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16Jul2025 22:58:41.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/prehistoricfauna:triassic
+[16Jul2025 22:58:41.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/prehistoricfauna:cretaceous
+[16Jul2025 22:58:41.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16Jul2025 22:58:41.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (jurassic): All chunks are saved
+[16Jul2025 22:58:41.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16Jul2025 22:58:41.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16Jul2025 22:58:41.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (triassic): All chunks are saved
+[16Jul2025 22:58:41.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (cretaceous): All chunks are saved
+[16Jul2025 22:58:41.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

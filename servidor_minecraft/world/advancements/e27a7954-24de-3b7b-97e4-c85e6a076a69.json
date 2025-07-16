@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-07-16 22:53:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-07-16 22:40:46 +0000"
@@ -224,6 +230,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-07-16 22:45:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-07-16 22:53:10 +0000"
     },
     "done": true
   },
@@ -330,6 +342,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-07-16 22:52:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-07-16 22:39:50 +0000"
@@ -348,6 +366,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-07-16 22:53:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-07-16 22:40:46 +0000"
@@ -363,6 +387,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-07-16 22:45:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-07-16 22:53:10 +0000"
     },
     "done": true
   },
@@ -417,6 +447,12 @@
   "knightquest:recipes/misc/zombie_chestplate": {
     "criteria": {
       "has_rotten_flesh": "2025-07-16 22:48:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-07-16 22:53:50 +0000"
     },
     "done": true
   },
@@ -564,6 +600,12 @@
     },
     "done": true
   },
+  "knightquest:knightquest": {
+    "criteria": {
+      "requirement": "2025-07-16 22:53:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-07-16 22:40:46 +0000"
@@ -579,6 +621,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-07-16 22:40:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-07-16 22:53:50 +0000"
     },
     "done": true
   },
@@ -690,6 +738,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-07-16 22:52:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-07-16 22:35:27 +0000"
@@ -705,6 +759,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-07-16 22:39:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-07-16 22:53:10 +0000"
     },
     "done": true
   },
@@ -839,6 +899,12 @@
   "minecraft:recipes/transportation/heidiphyllum_boat": {
     "criteria": {
       "in_water": "2025-07-16 22:35:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-07-16 22:53:10 +0000"
     },
     "done": true
   },
