@@ -294,3 +294,35 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [16Jul2025 22:39:30.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> metete al discord
 [16Jul2025 22:39:45.662] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zilasaur[/127.202.87.76:54355] logged in with entity id 1679 at (-41.5, 71.0, -41.5)
 [16Jul2025 22:39:45.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur joined the game
+[16Jul2025 22:40:46.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Stone Age]
+[16Jul2025 22:41:01.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Getting an Upgrade]
+[16Jul2025 22:41:05.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Stone Age]
+[16Jul2025 22:41:19.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Getting an Upgrade]
+[16Jul2025 22:41:23.984] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2, y=64, z=-14} BlockPos{x=3, y=62, z=-14}
+[16Jul2025 22:41:48.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 fell from a high place
+[16Jul2025 22:43:56.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Monster Hunter]
+[16Jul2025 22:44:17.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 was slain by Iron Golem
+[16Jul2025 22:45:32.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Acquire Hardware]
+[16Jul2025 22:46:08.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida has made the advancement [Monster Hunter]
+[16Jul2025 22:46:42.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Acquire Hardware]
+[16Jul2025 22:47:11.841] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 22:47:11.842] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 22:47:39.437] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 22:47:39.438] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 22:48:01.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Monster Hunter]
+[16Jul2025 22:48:18.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Suit Up]
+[16Jul2025 22:49:14.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Not Today, Thank You]
+[16Jul2025 22:49:25.189] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fresita_decaida lost connection: Disconnected
+[16Jul2025 22:49:25.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida left the game
+[16Jul2025 22:49:42.734] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fresita_decaida[/127.177.169.2:43719] logged in with entity id 5422 at (55.3961574961483, 21.0, 32.70157934682518)
+[16Jul2025 22:49:42.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida joined the game
+[16Jul2025 22:49:44.823] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fresita_decaida lost connection: Disconnected
+[16Jul2025 22:49:44.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida left the game
+[16Jul2025 22:49:57.122] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fresita_decaida[/127.177.169.2:33391] logged in with entity id 5549 at (55.3961574961483, 21.0, 32.70157934682518)
+[16Jul2025 22:49:57.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida joined the game
+[16Jul2025 22:49:59.312] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fresita_decaida lost connection: Disconnected
+[16Jul2025 22:49:59.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida left the game
+[16Jul2025 22:50:01.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 was caught by Necromancer's fangs
+[16Jul2025 22:50:40.316] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@75eb709c[id=<null>,name=Fresita_decaida,properties={},legacy=false] (/127.177.169.2:39827) lost connection: Timed out
+[16Jul2025 22:51:08.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was slain by Baby Spider
+[16Jul2025 22:51:14.208] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5fcd8981[id=<null>,name=Fresita_decaida,properties={},legacy=false] (/127.177.169.2:50023) lost connection: Disconnected
