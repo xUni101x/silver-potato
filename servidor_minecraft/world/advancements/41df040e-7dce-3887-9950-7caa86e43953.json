@@ -86,7 +86,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-07-16 22:34:26 +0000",
-      "minecraft:river": "2025-07-16 22:34:56 +0000"
+      "minecraft:river": "2025-07-16 22:34:56 +0000",
+      "minecraft:lush_caves": "2025-07-16 23:29:33 +0000"
     },
     "done": false
   },
@@ -958,39 +959,9 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/tunic_green_leggings": {
-    "criteria": {
-      "has_iron_leggings": "2025-07-16 22:52:27 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/tunic_red_leggings": {
-    "criteria": {
-      "has_iron_leggings": "2025-07-16 22:52:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-07-16 22:52:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_helmet": "2025-07-16 22:52:22 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/chainmail_helmet2": {
-    "criteria": {
-      "has_iron_helmet": "2025-07-16 22:52:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_smelting": {
-    "criteria": {
-      "has_iron_helmet": "2025-07-16 22:52:22 +0000"
     },
     "done": true
   },
@@ -1060,12 +1031,6 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/tunic_yellow_leggings": {
-    "criteria": {
-      "has_iron_leggings": "2025-07-16 22:52:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-07-16 22:52:16 +0000"
@@ -1081,12 +1046,6 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-07-16 22:52:16 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/chainmail_helmet": {
-    "criteria": {
-      "has_iron_helmet": "2025-07-16 22:52:22 +0000"
     },
     "done": true
   },
@@ -1132,12 +1091,6 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/tunic_sea_leggings": {
-    "criteria": {
-      "has_iron_leggings": "2025-07-16 22:52:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-07-16 22:52:16 +0000"
@@ -1162,18 +1115,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget_from_blasting": {
-    "criteria": {
-      "has_iron_helmet": "2025-07-16 22:52:22 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/tunic_blue_leggings": {
-    "criteria": {
-      "has_iron_leggings": "2025-07-16 22:52:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-07-16 22:52:16 +0000"
@@ -1183,6 +1124,90 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-07-16 22:52:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-07-16 22:52:22 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/chainmail_helmet2": {
+    "criteria": {
+      "has_iron_helmet": "2025-07-16 22:52:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_helmet": "2025-07-16 22:52:22 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/chainmail_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2025-07-16 22:52:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_helmet": "2025-07-16 22:52:22 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/tunic_green_leggings": {
+    "criteria": {
+      "has_iron_leggings": "2025-07-16 22:52:27 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/tunic_red_leggings": {
+    "criteria": {
+      "has_iron_leggings": "2025-07-16 22:52:27 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/tunic_yellow_leggings": {
+    "criteria": {
+      "has_iron_leggings": "2025-07-16 22:52:27 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/tunic_sea_leggings": {
+    "criteria": {
+      "has_iron_leggings": "2025-07-16 22:52:27 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/tunic_blue_leggings": {
+    "criteria": {
+      "has_iron_leggings": "2025-07-16 22:52:27 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shield_chestplate": {
+    "criteria": {
+      "has_shield": "2025-07-16 23:26:11 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shield_leggings": {
+    "criteria": {
+      "has_shield": "2025-07-16 23:26:11 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shield_helmet": {
+    "criteria": {
+      "has_shield": "2025-07-16 23:26:11 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shield_boots": {
+    "criteria": {
+      "has_shield": "2025-07-16 23:26:11 +0000"
     },
     "done": true
   },
