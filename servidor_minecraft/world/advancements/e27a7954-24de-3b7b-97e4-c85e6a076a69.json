@@ -3950,6 +3950,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/nail_sword": {
+    "criteria": {
+      "has_filled_goblet": "2025-07-17 07:49:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:basalt_deltas": "2025-07-17 06:37:48 +0000",
@@ -3963,9 +3969,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-07-17 08:00:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-17 06:35:31 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shinobi_leggings": {
+    "criteria": {
+      "has_filled_goblet": "2025-07-17 07:49:35 +0000"
     },
     "done": true
   },
@@ -3984,6 +4002,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-07-17 06:37:46 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/khopesh": {
+    "criteria": {
+      "has_filled_goblet": "2025-07-17 07:49:35 +0000"
     },
     "done": true
   },
@@ -4011,9 +4035,33 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/skulk_chestplate": {
+    "criteria": {
+      "has_filled_goblet": "2025-07-17 07:49:35 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/dragon_boots": {
+    "criteria": {
+      "has_filled_goblet": "2025-07-17 07:49:35 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/conquistador2_helmet": {
+    "criteria": {
+      "has_filled_goblet": "2025-07-17 07:49:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-07-17 06:44:15 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shinobi_boots": {
+    "criteria": {
+      "has_filled_goblet": "2025-07-17 07:49:35 +0000"
     },
     "done": true
   },
@@ -4029,6 +4077,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-07-17 08:00:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-07-17 07:58:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-17 06:44:22 +0000"
@@ -4038,6 +4098,42 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-17 06:44:22 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/phantom_helmet": {
+    "criteria": {
+      "has_filled_goblet": "2025-07-17 07:49:35 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shinobi_chestplate": {
+    "criteria": {
+      "has_filled_goblet": "2025-07-17 07:49:35 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/khopesh_claymore": {
+    "criteria": {
+      "has_filled_goblet": "2025-07-17 07:49:35 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/nail_glaive": {
+    "criteria": {
+      "has_filled_goblet": "2025-07-17 07:49:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-07-17 08:00:58 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shinobi_helmet": {
+    "criteria": {
+      "has_filled_goblet": "2025-07-17 07:49:35 +0000"
     },
     "done": true
   },
@@ -4065,9 +4161,27 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/skulk2_helmet": {
+    "criteria": {
+      "has_filled_goblet": "2025-07-17 07:49:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-07-17 07:15:02 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/skulk_helmet": {
+    "criteria": {
+      "has_filled_goblet": "2025-07-17 07:49:35 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/phantom_boots": {
+    "criteria": {
+      "has_filled_goblet": "2025-07-17 07:49:35 +0000"
     },
     "done": true
   },
@@ -4101,15 +4215,33 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/phantom_chestplate": {
+    "criteria": {
+      "has_filled_goblet": "2025-07-17 07:49:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-07-17 06:43:14 +0000"
     },
     "done": true
   },
+  "knightquest:recipes/misc/sea_boots": {
+    "criteria": {
+      "has_filled_goblet": "2025-07-17 07:49:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-17 06:44:22 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/sea_helmet": {
+    "criteria": {
+      "has_filled_goblet": "2025-07-17 07:49:35 +0000"
     },
     "done": true
   },
@@ -4122,6 +4254,12 @@
   "minecraft:recipes/redstone/warped_door": {
     "criteria": {
       "has_planks": "2025-07-17 06:47:43 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silverfish_chestplate": {
+    "criteria": {
+      "has_filled_goblet": "2025-07-17 07:49:35 +0000"
     },
     "done": true
   },
@@ -4149,9 +4287,33 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/skulk4_helmet": {
+    "criteria": {
+      "has_filled_goblet": "2025-07-17 07:49:35 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silverfish_boots": {
+    "criteria": {
+      "has_filled_goblet": "2025-07-17 07:49:35 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/wisteria_niveis": {
+    "criteria": {
+      "has_item": "2025-07-17 07:51:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-17 06:35:31 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/phantom_leggings": {
+    "criteria": {
+      "has_filled_goblet": "2025-07-17 07:49:35 +0000"
     },
     "done": true
   },
@@ -4173,6 +4335,18 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/dragon_helmet": {
+    "criteria": {
+      "has_filled_goblet": "2025-07-17 07:49:35 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/ship_graveyard_echo": {
+    "criteria": {
+      "has_item": "2025-07-17 07:51:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-17 06:35:31 +0000"
@@ -4182,6 +4356,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-07-17 06:37:46 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silverfish_leggings": {
+    "criteria": {
+      "has_filled_goblet": "2025-07-17 07:49:35 +0000"
     },
     "done": true
   },
@@ -4203,6 +4383,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/sea_chestplate": {
+    "criteria": {
+      "has_filled_goblet": "2025-07-17 07:49:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-17 06:44:22 +0000"
@@ -4221,15 +4407,33 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/sea_leggings": {
+    "criteria": {
+      "has_filled_goblet": "2025-07-17 07:49:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-17 06:44:22 +0000"
     },
     "done": true
   },
+  "knightquest:recipes/misc/pirate3_helmet": {
+    "criteria": {
+      "has_filled_goblet": "2025-07-17 07:49:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-07-17 06:39:30 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/dragon_leggings": {
+    "criteria": {
+      "has_filled_goblet": "2025-07-17 07:49:35 +0000"
     },
     "done": true
   },
@@ -4263,9 +4467,21 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/silverfish_helmet": {
+    "criteria": {
+      "has_filled_goblet": "2025-07-17 07:49:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2025-07-17 06:36:46 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/tengu_helmet": {
+    "criteria": {
+      "has_filled_goblet": "2025-07-17 07:49:35 +0000"
     },
     "done": true
   },
@@ -4287,6 +4503,18 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/skulk_leggings": {
+    "criteria": {
+      "has_filled_goblet": "2025-07-17 07:49:35 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/skulk_boots": {
+    "criteria": {
+      "has_filled_goblet": "2025-07-17 07:49:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-07-17 06:39:30 +0000"
@@ -4296,6 +4524,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-07-17 07:33:11 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/dragon_chestplate": {
+    "criteria": {
+      "has_filled_goblet": "2025-07-17 07:49:35 +0000"
     },
     "done": true
   },

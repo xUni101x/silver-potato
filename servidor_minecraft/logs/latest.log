@@ -322,3 +322,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [17Jul2025 07:29:34.675] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
 [17Jul2025 07:29:34.675] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
 [17Jul2025 07:29:34.676] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[17Jul2025 07:54:29.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur fell from a high place
+[17Jul2025 07:54:29.091] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(411, 51, -87) minecraft:overworld
+[17Jul2025 07:57:45.523] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved too quickly! -6.858986527934235,-10.0,6.699999988079071
+[17Jul2025 07:57:46.734] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[17Jul2025 07:57:46.735] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[17Jul2025 07:57:46.735] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[17Jul2025 07:57:46.735] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[17Jul2025 07:58:52.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Enchanter]
+[17Jul2025 08:00:58.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Hidden in the Depths]
+[17Jul2025 08:05:47.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Best Friends Forever]
+[17Jul2025 08:07:38.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Dripstone Everywhere]
