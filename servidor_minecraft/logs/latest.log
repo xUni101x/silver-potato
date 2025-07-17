@@ -311,3 +311,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [17Jul2025 07:13:29.223] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/17705, l='ServerLevel[world]', x=1698.79, y=63.50, z=2461.44] died, message: 'Villager cooked in zilasaur's fiery field'
 [17Jul2025 07:14:03.360] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/29252, l='ServerLevel[world]', x=1690.50, y=47.00, z=2432.50]
 [17Jul2025 07:15:02.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [What a Deal!]
+[17Jul2025 07:23:59.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [The Wind Darkening]
+[17Jul2025 07:29:30.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 fell from a high place
+[17Jul2025 07:29:30.725] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(858, 72, 1208) minecraft:overworld
+[17Jul2025 07:29:34.674] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[17Jul2025 07:29:34.674] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[17Jul2025 07:29:34.674] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 frostward_ring
+[17Jul2025 07:29:34.674] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[17Jul2025 07:29:34.675] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[17Jul2025 07:29:34.675] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[17Jul2025 07:29:34.675] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[17Jul2025 07:29:34.676] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
